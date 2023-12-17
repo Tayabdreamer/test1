@@ -3,3 +3,4 @@ this is 2nd line
 this is 3rd line
 line 5
 logo fixed
+bug ok
